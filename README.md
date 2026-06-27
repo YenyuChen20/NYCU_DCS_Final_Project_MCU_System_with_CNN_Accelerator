@@ -24,6 +24,15 @@ This project implements a Microcontroller Unit (MCU) integrated with a CNN accel
 - nWave
 - Linux
 
+  ## Highlights
+
+- Designed a complete MCU architecture in Verilog
+- Implemented AXI4 burst transactions
+- Integrated a CNN hardware accelerator with the processor
+- Optimized memory access through DMA
+- Passed RTL, Synthesis, and Gate-Level simulations
+
 ## Course
 
 NYCU Digital Circuit and System Laboratory Final Project
+
