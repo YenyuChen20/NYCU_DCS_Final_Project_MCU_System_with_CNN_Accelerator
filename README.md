@@ -59,7 +59,7 @@ The CNN accelerator is integrated into the MCU as a dedicated hardware module fo
 
 When a CNN instruction is executed, the MCU configures the accelerator by selecting the target image, kernel, and operating mode. The CNN module performs the convolution and activation operations in hardware, generates four output values, and returns the index of the maximum output to the destination register. This hardware implementation significantly reduces the computation workload of the processor and improves the overall execution efficiency compared with software-based execution.
 
-<img width="765" height="380" alt="image" src="https://github.com/user-attachments/assets/4fe4e959-a79b-4e24-a2a5-140e2231e054" />
+<img width="565" height="280" alt="image" src="https://github.com/user-attachments/assets/4fe4e959-a79b-4e24-a2a5-140e2231e054" />
 
 
   ## Highlights
