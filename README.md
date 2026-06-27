@@ -3,6 +3,8 @@
 ## Introduction
 
 This project implements a Microcontroller Unit (MCU) integrated with a CNN accelerator using Verilog HDL. The system communicates with instruction and data memory through the AXI4 protocol and supports DMA-based data transfer for efficient CNN execution.
+<img width="685" height="516" alt="image" src="https://github.com/user-attachments/assets/bbe476cb-0b1c-48f5-9dec-ab3d3e8238cc" />
+
 
 ## Features
 
