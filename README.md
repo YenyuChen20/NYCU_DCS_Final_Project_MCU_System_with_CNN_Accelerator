@@ -37,7 +37,10 @@ For instruction fetching, an **8-beat burst read (ARLEN = 7)** is adopted. Eight
 
 Burst transfers are also applied to data memory accesses for continuous image, kernel, and weight data, improving overall memory access efficiency.
 
-<img width="416" height="401" alt="image" src="https://github.com/user-attachments/assets/ef26e9ab-0af0-47b5-978d-b59dc4d9db56" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef26e9ab-0af0-47b5-978d-b59dc4d9db56" width="420">
+  <img src="https://github.com/user-attachments/assets/22b0b649-9df4-4e09-a1be-1cef43a67262" width="420">
+</p>
 
 
 ## Instruction Prefetch Buffer
