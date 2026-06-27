@@ -68,5 +68,6 @@ When a CNN instruction is executed, the MCU configures the accelerator by select
 
 ## Course
 
-NYCU Digital Circuit and System Laboratory Final Project
+NYCU Digital Circuit and System Laboratory Final Project.
+
 Architecture diagrams are adapted from the course materials. All implementation and source code in this repository are my own work.
